@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang = "vi">
+	<head>
+		<title> XÂY D?NG SO Ð? L?P H?C:</title>
+		<meta charset="utf-8" />
+		<meta name="author" content="HOÀNG ÁNH and HUY?N TRANG" />
+		<meta name="keyword" content="so d? l?p h?c, so d? html co b?n" />
+	</head>
+	<body>
+		<div id="sodolop" style="color: red; text-align: center">  <h2>SO Ð? L?P 59TH</h2> </div>
+		
+		<!--kích thu?c c?a khung bao bên ngoài, chi?u r?ng , chi?u cao, l?-->
+		<div id= "kichthuockhung" style="width: 900px; height: auto; margin: auto; ">	
+			
+			<!--overflow: auto-tránh b? tràn d? li?u, cách ph?n d?u,display: flex_t? can ch?nh trang -->
+			<div id="sodolop" style="overflow: auto;  margin-top :50px; overflow: auto; display: flex; justify-content: center;"> 
+				<!--t?o dãy bàn trên cùng 1 hàng-->
+				<div id="dayban" style="margin-left: all">
+
+				<div id ="day1" align="center" style="float: left; border: 2px solid; width: 250px; height: 300px; overflow: auto;" >
+						<p style="color: black; text-align: center;">Dãy 1</p>
+							<ol type="1">					
+								<div id ="ban 1">
+									<li>
+										<a href="#" title = "175A071880">H?ng  </a>  &nbsp; 
+										<a href="#" title = "175A071881">Ti?n  </a>  &nbsp; 
+										<a href="#" title = "175A071882">Thùy  </a>  &nbsp; 
+										<a href="#" title = "175A071883">Ng?c  </a>  &nbsp;
+									</li>
+
+									<p></p>
+
+									<li>
+										<a href="#" title = "175A071884">Linh  </a>  &nbsp;
+										<a href="#" title = "175A071885">Nam   </a>  &nbsp;
+										<a href="#" title = "175A071886">Phong </a>  &nbsp;
+										<a href="#" title = "175A071887">Khôi  </a>  &nbsp;
+									</li>
+								</div>	
+							</ol>
+								<!--tránh b? co khung-->
+								</div>
+								</div>
